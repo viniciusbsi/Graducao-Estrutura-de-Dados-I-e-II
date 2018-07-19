@@ -1,4 +1,4 @@
-# EStrutura de Dados I e II
+# Estrutura de Dados I e II
 Listas, exercícios e demais soluções implementadas nas disciplinas
 
 * C
