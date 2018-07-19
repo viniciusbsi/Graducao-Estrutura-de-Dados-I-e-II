@@ -12,7 +12,6 @@ Listas, exercícios e demais soluções implementadas nas disciplinas
 	- Pilha
 	- Fila
 	- Lista
-	- Algoritmos de ordenação
  	- Recursividade
 	
 
